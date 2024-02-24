@@ -9,25 +9,25 @@ I first got exposed to the power of nix while I was interning at Anduril in the 
 
 I write a lot of software for student competition teams and I work with several different groups in class and in my team throughout the course of a semester and with that comes the immense overhead of installing dependencies on everyone's machines or getting them setup with shitty VMs. This always takes way more time than it should and sometimes becomes a blocker for peeps to get involved in the project. Traditionally I know that minimizing deps for code is good practice but when I want to smash a bunch of shit together to get something working, speed for me trumps dependency avoidance. 
 
-<img src="image-1.png" alt="image" width="400" />
+<img src="{{site.baseurl}}/assets/images/image-1.png" alt="image" width="400" />
 
 I am starting to get more into the Nix ecosystem and I feel like right now im at the peak of mount stupid:
+<img src="{{site.baseurl}}/assets/images/image.png" alt="image" width="400" />
 
-![alt text](image.png)
 
 cuz rn i feel emboldened to nixify everything and make everyone use it. However I am still pretty much illiterate when it comes to writing nix code and I am scared tho that the stuff im building for long term wont get looked at or grown once I leave since nix is still esoteric and the docs can be very sparse and aren't easily accessible. However, below is listed the stuff I have been reading for learning more about nix and nixos:
 
-https://artemis.sh/2023/06/06/cross-compile-nixos-for-great-good.html
+[https://artemis.sh/2023/06/06/cross-compile-nixos-for-great-good.html](https://artemis.sh/2023/06/06/cross-compile-nixos-for-great-good.html)
 
-https://stop-using-nix-env.privatevoid.net/
+[https://stop-using-nix-env.privatevoid.net/](https://stop-using-nix-env.privatevoid.net/)
 
-https://flakehub.com/
+[https://flakehub.com/](https://flakehub.com/)
 
-https://zero-to-nix.com/
+[https://zero-to-nix.com/](https://zero-to-nix.com/)
 
-https://www.jboy.space/blog/nix-on-hpc.html
+[https://www.jboy.space/blog/nix-on-hpc.html](https://www.jboy.space/blog/nix-on-hpc.html)
 
-https://rbf.dev/blog/2020/05/custom-nixos-build-for-raspberry-pis/
+[https://rbf.dev/blog/2020/05/custom-nixos-build-for-raspberry-pis/](https://rbf.dev/blog/2020/05/custom-nixos-build-for-raspberry-pis/)
 
 My background is mostly in embedded development and as such I am most comfortable in C++ in my day-to-day development. Along with this I have learned a lot about how to do CMake and in Nix it often feels like to me that there aren't a lot of people working on big C++ projects in nix (even though nix was written in C++). There exists native support for cmake builds but things like debugging and compile command generation are not part of the standard docs for a quick dev environment getting started in nix development. I also feel like the power of Nix could also be used in the land of firmware to truly accomplish amazing things.
 
@@ -38,3 +38,4 @@ prtzl made a dev [environment for stm32](https://github.com/prtzl/stm32) which i
 anywhomst, enough yapping about that, I just wanted to get that idea out of my head.
 
 
+    
