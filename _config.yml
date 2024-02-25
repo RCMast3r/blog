@@ -20,10 +20,11 @@
 
 title: Neb's blog
 author:
-  name: Ben
+  name: Ben Hall
   email: "nebllah@cock.li"
 description: >- # this means to ignore newlines until "baseurl:"
   my blog where i write about stuff im doing 
+baseurl: ""
 url: "https://rcmast3r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: RCMast3r
 
