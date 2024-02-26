@@ -22,20 +22,23 @@ if I were to lay out some chapters they would be:
 
 1. Introduction
 
-    1.1 definition of a competition team
+    - 1.1 definition of a competition team
 
-    1.2 history of competition teams
+    - 1.2 history of competition teams
    
-    1.3 FSAE history
+    - 1.3 FSAE history
 
 2. stories from students
 
     whether it be about a whole season, a competition experience, or a specific event, it would be interesting to gather some short stories from around the world about some of the awesome experiences students have had as a part of competition teams.
 
 3. The dedicated student experience
-    3.1 what it means to be core
-    3.2 leadership and fellowship
-    3.3 the work and play environment
+    
+    - 3.1 what it means to be core
+    
+    - 3.2 leadership and fellowship
+    
+    - 3.3 the work and play environment
 
 4. The University's side of things
 
