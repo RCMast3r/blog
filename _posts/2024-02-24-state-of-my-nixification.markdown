@@ -9,10 +9,10 @@ I first got exposed to the power of nix while I was interning at Anduril in the 
 
 I write a lot of software for student competition teams and I work with several different groups in class and in my team throughout the course of a semester and with that comes the immense overhead of installing dependencies on everyone's machines or getting them setup with shitty VMs. This always takes way more time than it should and sometimes becomes a blocker for peeps to get involved in the project. Traditionally I know that minimizing deps for code is good practice but when I want to smash a bunch of shit together to get something working, speed for me trumps dependency avoidance. 
 
-<!-- <img src="assets/images/image-1.png" alt="image" width="400" /> -->
+<img src="assets/images/image-1.png" alt="image" width="400" />
 
 I am starting to get more into the Nix ecosystem and I feel like right now im at the peak of mount stupid:
-<!-- <img src="assets/images/image.png" alt="image" width="400" /> -->
+<img src="assets/images/image.png" alt="image" width="400" />
 
 
 cuz rn i feel emboldened to nixify everything and make everyone use it. However I am still pretty much illiterate when it comes to writing nix code and I am scared tho that the stuff im building for long term wont get looked at or grown once I leave since nix is still esoteric and the docs can be very sparse and aren't easily accessible. However, below is listed the stuff I have been reading for learning more about nix and nixos:
